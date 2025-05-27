@@ -15,8 +15,10 @@ Projeto em Python para registrar e analisar dados de desastres (tipo, local e n√
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
  
 Acesse a pasta do projeto: 
-cd 25.1.GS.CaioeMelissa
- 
+
+    ```bash cd 25.1.GS.CaioeMelissa
+
 Execute o programa: 
+```bash
 python 25.1.GS.CaioeMelissa.py
  
