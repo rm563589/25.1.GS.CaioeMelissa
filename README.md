@@ -9,4 +9,4 @@ Projeto em Python para registrar e analisar dados de desastres (tipo, local e n√
 ## Como executar
  
 ```bash
-python main.py
+python 25.1.GS.CaioeMelissa.py
